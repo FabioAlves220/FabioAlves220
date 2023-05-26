@@ -1,5 +1,5 @@
-### Bem vindo e obrigado por visitar meu perfil! <br> Me chamo Fabio Alves. 👋
-
+### Bem vindo e obrigado por visitar meu perfil! <br/> Me chamo Fabio Alves. 👋
+<br/>
 Sou estudante de Desenvolvimento Web **Full Stack** em busca de oportunidade para atuar.
 <h2></h2><br>
 <b>Algumas das tecnologias que usei em projetos que desenvolvi: </b>
@@ -20,7 +20,7 @@ Sou estudante de Desenvolvimento Web **Full Stack** em busca de oportunidade par
 <b>Entre em contato: </b>
 <br/><br/>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/fabioalves220/" target="_blank">
+  <a href="https://www.linkedin.com/in/fabioalves220/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
