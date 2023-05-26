@@ -1,6 +1,6 @@
-### Bem vindo e obrigado por visitar meu perfil! <br/> Me chamo Fabio Alves. 👋
+### Bem vindo(a) e obrigado por visitar meu perfil! <br/> Me chamo Fabio Alves. 👋
 <br/>
-Sou estudante de Desenvolvimento Web **Full Stack** em busca de oportunidade para atuar.
+Sou estudante de Desenvolvimento Web <b>Full Stack</b> em busca de oportunidade para atuar.
 <h2></h2><br>
 <b>Algumas das tecnologias que usei em projetos que desenvolvi: </b>
 <br/><br/>
