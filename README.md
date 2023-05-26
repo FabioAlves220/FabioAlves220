@@ -17,8 +17,10 @@ Sou estudante de Desenvolvimento Web **Full Stack** em busca de oportunidade par
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <h2></h2><br>
+<b>Entre em contato: </b>
+<br/><br/>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/fabioalves220/">
+  <a href="https://www.linkedin.com/in/fabioalves220/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
