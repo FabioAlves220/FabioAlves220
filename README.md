@@ -23,6 +23,8 @@ Sou estudante de Desenvolvimento Web <b>Full Stack</b> em busca de oportunidade 
   <a href="https://www.linkedin.com/in/fabioalves220/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <br/>
+  <b>binhoaoliveira@gmail.com</b>
 </div>
 
 
